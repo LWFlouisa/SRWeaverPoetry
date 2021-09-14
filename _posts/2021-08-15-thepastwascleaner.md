@@ -1,7 +1,7 @@
 ---
 title: The Past Was Cleaner
 author: SRWeaver
-tags: globalwarming pollution ancientgrewn ecosocialism econihilisme laikuderenga
+tags: globalwarming oslakunirenigoseneros pollution ancientgrewn ecosocialism econihilisme laikuderenga
 ---
 In the sky, clouds<br />
 rise above. Shrouds<br />
