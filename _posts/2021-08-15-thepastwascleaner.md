@@ -3,6 +3,19 @@ title: The Past Was Cleaner
 author: SRWeaver
 tags: globalwarming oslakunirenigoseneros pollution ancientgrewn ecosocialism econihilisme laikuderenga
 ---
+### Main Melody
+Eb Eb D C B<br />
+Eb Eb D C B<br />
+B A<br />
+Eb Eb D C B<br />
+Eb Eb D C B<br />
+B A<br />
+Eb Eb D C B<br />
+Eb Eb D C B<br />
+B A<br />
+
+### The Past Was Cleaner
+
 In the sky, clouds<br />
 rise above. Shrouds<br />
 smoking.<br />
