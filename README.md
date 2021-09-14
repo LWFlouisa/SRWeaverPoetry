@@ -1,2 +1,4 @@
-# SRWeaverPoetry
-This will be my poetry blog.
+### S.R. Weaver's Poetry
+My own personal poetry website.
+
+[Subscribe](https://lwflouisa.github.io/SRWeaverPoetry/feed.xml)
