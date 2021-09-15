@@ -23,6 +23,20 @@ F# E F# A B D<br />
 F# E F# A B D# D#<br />
 F# E F# A B D# D#<br />
 
+F# E F# A B<br />
+F# E F# A B D# D#<br />
+F# E F# A B D# D<br />
+
+F# E F# A B<br />
+F# E F# A B D# D#<br />
+F# E F# A B D# D<br />
+
+F# E F# A B D# D#<br />
+F# E F# A B D# D<br />
+
+F# E F# A B D# D#<br />
+F# E F# A B D# D<br />
+
 Eb Eb D C B<br />
 Eb Eb D C B<br />
 B A<br />
@@ -32,6 +46,9 @@ B A<br />
 Eb Eb D C B<br />
 Eb Eb D C B<br />
 B A<br />
+
+F# E F# A B D# D# D<br />
+F# E F# A B D# D# D<br />
 
 To be continued
 
