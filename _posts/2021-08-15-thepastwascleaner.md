@@ -50,8 +50,6 @@ B A<br />
 F# E F# A B D# D# D<br />
 F# E F# A B D# D# D<br />
 
-To be continued
-
 ### The Past Was Cleaner
 
 In the sky, clouds<br />
