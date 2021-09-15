@@ -14,6 +14,27 @@ Eb Eb D C B<br />
 Eb Eb D C B<br />
 B A<br />
 
+F# E F# A B D<br />
+F# E F# A B D#<br />
+D# D C B C C<br />
+D F# E F# B A<br />
+F# E F# A B D<br />
+
+F# E F# A B D# D#<br />
+F# E F# A B D# D#<br />
+
+Eb Eb D C B<br />
+Eb Eb D C B<br />
+B A<br />
+Eb Eb D C B<br />
+Eb Eb D C B<br />
+B A<br />
+Eb Eb D C B<br />
+Eb Eb D C B<br />
+B A<br />
+
+To be continued
+
 ### The Past Was Cleaner
 
 In the sky, clouds<br />
@@ -28,7 +49,7 @@ bites.<br />
 
 In the past, if one<br />
 can long for it today,<br />
-Was once cleaner<br />
+Was once clean<br />
 with green all over.<br />
 Yet now that time has<br />
 faded from memory.<br />
