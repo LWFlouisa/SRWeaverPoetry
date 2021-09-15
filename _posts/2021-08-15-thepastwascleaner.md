@@ -3,55 +3,7 @@ title: The Past Was Cleaner
 author: SRWeaver
 tags: globalwarming oslakunirenigoseneros pollution ancientgrewn ecosocialism econihilisme laikuderenga
 ---
-### Main Melody
-Eb Eb D C B<br />
-Eb Eb D C B<br />
-B A<br />
-Eb Eb D C B<br />
-Eb Eb D C B<br />
-B A<br />
-Eb Eb D C B<br />
-Eb Eb D C B<br />
-B A<br />
-
-F# E F# A B D<br />
-F# E F# A B D#<br />
-D# D C B C C<br />
-D F# E F# B A<br />
-F# E F# A B D<br />
-
-F# E F# A B D# D#<br />
-F# E F# A B D# D#<br />
-
-F# E F# A B<br />
-F# E F# A B D# D#<br />
-F# E F# A B D# D<br />
-
-F# E F# A B<br />
-F# E F# A B D# D#<br />
-F# E F# A B D# D<br />
-
-F# E F# A B D# D#<br />
-F# E F# A B D# D<br />
-
-F# E F# A B D# D#<br />
-F# E F# A B D# D<br />
-
-Eb Eb D C B<br />
-Eb Eb D C B<br />
-B A<br />
-Eb Eb D C B<br />
-Eb Eb D C B<br />
-B A<br />
-Eb Eb D C B<br />
-Eb Eb D C B<br />
-B A<br />
-
-F# E F# A B D# D# D<br />
-F# E F# A B D# D# D<br />
-
 ### The Past Was Cleaner
-
 In the sky, clouds<br />
 rise above. Shrouds<br />
 smoking.<br />
@@ -98,3 +50,50 @@ bites.<br />
 
 No prayers can save us now,<br />
 on this rotting Earth.<br />
+
+### Melody
+Eb Eb D C B<br />
+Eb Eb D C B<br />
+B A<br />
+Eb Eb D C B<br />
+Eb Eb D C B<br />
+B A<br />
+Eb Eb D C B<br />
+Eb Eb D C B<br />
+B A<br />
+
+F# E F# A B D<br />
+F# E F# A B D#<br />
+D# D C B C C<br />
+D F# E F# B A<br />
+F# E F# A B D<br />
+
+F# E F# A B D# D#<br />
+F# E F# A B D# D#<br />
+
+F# E F# A B<br />
+F# E F# A B D# D#<br />
+F# E F# A B D# D<br />
+
+F# E F# A B<br />
+F# E F# A B D# D#<br />
+F# E F# A B D# D<br />
+
+F# E F# A B D# D#<br />
+F# E F# A B D# D<br />
+
+F# E F# A B D# D#<br />
+F# E F# A B D# D<br />
+
+Eb Eb D C B<br />
+Eb Eb D C B<br />
+B A<br />
+Eb Eb D C B<br />
+Eb Eb D C B<br />
+B A<br />
+Eb Eb D C B<br />
+Eb Eb D C B<br />
+B A<br />
+
+F# E F# A B D# D# D<br />
+F# E F# A B D# D# D<br />
