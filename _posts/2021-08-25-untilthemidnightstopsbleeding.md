@@ -1,4 +1,8 @@
-
+---
+title: The Past Was Cleaner
+author: SRWeaver
+tags: oslakunarenigoseneros nansensu doublelakunarenigo
+---
 In the forest / dimly lit and black<br />
 the trees sway back / and forth in the wind.<br />
 The moon shines / glowing divine.<br />
