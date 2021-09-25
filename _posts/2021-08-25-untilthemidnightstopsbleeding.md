@@ -1,5 +1,5 @@
 ---
-title: The Past Was Cleaner
+title: Until The Midnight Stops Bleeding
 author: SRWeaver
 tags: oslakunarenigoseneros nansensu doublelakunarenigo
 ---
