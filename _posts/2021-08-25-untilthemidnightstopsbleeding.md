@@ -22,6 +22,6 @@ the trees sway back / and forth in the wind.<br />
 The moon shines / glowing divine.<br />
 
 Perhaps someday, the midnight hours,<br />
-as day approaches.<br />
+as the day approaches.<br />
 
 Will no longer bleed.
