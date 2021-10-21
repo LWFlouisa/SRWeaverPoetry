@@ -3,6 +3,8 @@ title: Witchcraft Birkenchops
 author: SRWeaver
 tags: birkenstocks newadult birkenstockwitches
 ---
+<i>This is about shoe fetishes, peasants, and cute witches. If that offends, go take your broonsticks elsewhere. Cute witches here only.</i>
+
 I like women<br />
 in Birkenstocks, slipping in<br />
 and out. No socks.<br />
