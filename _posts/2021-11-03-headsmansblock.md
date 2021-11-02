@@ -1,7 +1,7 @@
 ---
 title: "Beheaded Vampiress"
 author: SRWeaver
-tags: beheading choppingblock woodenshoes hybridpoetry
+tags: beheading choppingblock woodenshoes hybridpoetry moyotirumeriku
 layout: post
 ---
 <i>Beheaded Vampiress, Or a stray limmerick, 迷っている リメリック</i>
