@@ -4,20 +4,20 @@ author: Esfera SRWeaver
 tags: beheaded lopsidedbow guillotine frenchgirl
 layout: post
 ---
-Lopsided bow red
-and frilly, tilted
-leftward.
-Her shirt the color
-of the sunset sky.
-Shadows
-in the crypt lurking,
-seeking. They who
-haunt 
+Lopsided bow red<br />
+and frilly, tilted<br />
+leftward.<br />
+Her shirt the color<br />
+of the sunset sky.<br />
+Shadows<br />
+in the crypt lurking,<br />
+seeking. They who<br />
+haunt
 
-the winter sunset
-make their bets sitting
+the winter sunset<br />
+make their bets sitting<br />
 down, long in the crypt. 
 
-Midnight she sleeps
-Her power now beckons me
+Midnight she sleeps<br />
+Her power now beckons me<br />
 to the darkest night.
