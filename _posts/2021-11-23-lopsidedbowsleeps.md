@@ -2,6 +2,7 @@
 title: "Lopsided Bow Sleeps"
 author: Esfera SRWeaver
 tags: beheaded lopsidedbow guillotine frenchgirl
+layout: post
 ---
 Lopsided bow red
 and frilly, tilted
