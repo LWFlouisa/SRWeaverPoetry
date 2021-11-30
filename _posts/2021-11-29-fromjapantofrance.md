@@ -14,6 +14,9 @@ But for "Os Suraponica" we dance to moonlight.<br />
 From Japan to France we eat feta sushi.<br />
 For flavors come in many seasons after Summer.<br />
 
+Ne swa Suraponica,<br />
+Peru Sfuranka miya wifa.
+
 Thus one has to ask,<br />
 what can you give, Oji<br />
 Abe, and Julian<br />
@@ -22,6 +25,9 @@ from Japan to France.<br />
 For "Os Suraponica" we dance to moonlight.<br />
 From Japan to France we eat feta sushi.<br />
 For flavors come in many seasons after Summer.<br />
+
+Ne swa Suraponica,<br />
+Peru Sfuranka miya wifa
 
 Winter we dine<br />
 with our ancestors in<br />
