@@ -4,29 +4,29 @@ author: SRWeaver
 tags: peace economocalliance ode
 layout: post
 ---
-From Japan to France
-the rocky seas pulse...
-the rain flows down.
-From Japan to France
-the only modern states
-love their manga.
-But for "Os Suraponica" we dance to moonlight.
-From Japan to France we eat feta sushi.
-For flavors come in many seasons after Summer.
+From Japan to France<br />
+the rocky seas pulse...<br />
+the rain flows down.<br />
+From Japan to France<br />
+the only modern states<br />
+love their manga.<br />
+But for "Os Suraponica" we dance to moonlight.<br />
+From Japan to France we eat feta sushi.<br />
+For flavors come in many seasons after Summer.<br />
 
-Thus one has to ask,
-what can you give, Oji
-Abe, and Julian
-as your bridegroom
-from Japan to France.
-For "Os Suraponica" we dance to moonlight.
-From Japan to France we eat feta sushi.
-For flavors come in many seasons after Summer.
+Thus one has to ask,<br />
+what can you give, Oji<br />
+Abe, and Julian<br />
+as your bridegroom<br />
+from Japan to France.<br />
+For "Os Suraponica" we dance to moonlight.<br />
+From Japan to France we eat feta sushi.<br />
+For flavors come in many seasons after Summer.<br />
 
-Winter we dine
-with our ancestors in
-From Shinto in death,
-holding Necuronomiconas.
-We dance to moonlight.
-From Japan to France we eat feta sushi.
+Winter we dine<br />
+with our ancestors in<br />
+From Shinto in death,<br />
+holding Necuronomiconas.<br />
+We dance to moonlight.<br />
+From Japan to France we eat feta sushi.<br />
 For flavors come in many seasons after Summer
