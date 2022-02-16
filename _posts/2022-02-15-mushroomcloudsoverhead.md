@@ -1,7 +1,7 @@
 ---
 title: "Eharinozarupaticosa"
 author: SRWeaver
-tags: poetry ethnicchant
+tags: poetry ethnicchant furamanekocanesone
 layout: post
 ---
 Mushroom clouds are overhead,<br />
