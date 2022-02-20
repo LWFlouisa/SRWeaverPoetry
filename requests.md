@@ -1,0 +1,21 @@
+---
+title: "Now Taking Requests"
+---
+## Introduction
+I'm currently taking requests for songs for singers and musicians for those creating music for RPG Maker titles. First as a background about myself: I'm mostly a webcomic creator and novelist, but practiced poetry for a few years in order to refine my prose writing ability.
+
+My favorite forms of poetry are Francophone forms like "Alexandrine Line" and Lai, and Japanese forms like Haiku, Senryu, Tanka, and Haiku No Renga. I created my own hybrid form called Senryudeux, and other poetry forms are derived from this format.
+
+## Format
+
+[ Su-fi neh-di shu-deh ]
+
+Gendered
+U Sufinerixude [ Su-fi neh-di shu-duh ]
+A Sufinerixeda [ Su-fi neh-di shu-dah ]
+Os Sufinerixedos [ Su-fi neh-di shu-doh ]
+
+Derived from the hybrid French and Japanese poetry form Senryudeux, is 34 syllables split over three lines, and comes in a chain of three. Themes revolve around working class issues, capital punishment, and Japanese funerals.
+
+## Format Of Request
+Coming soon
