@@ -10,9 +10,9 @@ My favorite forms of poetry are Francophone forms like "Alexandrine Line" and La
 
 [ Su-fi neh-di shu-deh ]
 
-Gendered
-U Sufinerixude [ Su-fi neh-di shu-duh ]
-A Sufinerixeda [ Su-fi neh-di shu-dah ]
+Gendered<br />
+U Sufinerixude [ Su-fi neh-di shu-duh ]<br />
+A Sufinerixeda [ Su-fi neh-di shu-dah ]<br />
 Os Sufinerixedos [ Su-fi neh-di shu-doh ]
 
 Derived from the hybrid French and Japanese poetry form Senryudeux, is 34 syllables split over three lines, and comes in a chain of three. Themes revolve around working class issues, capital punishment, and Japanese funerals.
