@@ -5,7 +5,7 @@ tags: contract disputes
 layout: post
 --- 
 
-I
+I<br />
 These days artists<br />
 sue each other for<br />
 contract disputes. 
@@ -17,7 +17,7 @@ other on the rack.
 Now sit back and relax,<br />
 Were all smothered in candlewax. 
 
-II
+II<br />
 In middle ages<br />
 there were copper pens.<br />
 All barrel shaped. 
@@ -29,7 +29,7 @@ all for bank contracts.
 There was untreated cateracts,<br />
 and heads full of lice. 
 
-III
+III<br />
 But at least its<br />
 not an execution<br />
 and torture for 
