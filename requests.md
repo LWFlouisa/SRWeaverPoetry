@@ -18,4 +18,15 @@ Os Sufinerixedos [ Su-fi neh-di shu-doh ]
 Derived from the hybrid French and Japanese poetry form Senryudeux, is 34 syllables split over three lines, and comes in a chain of three. Themes revolve around working class issues, capital punishment, and Japanese funerals.
 
 ## Format Of Request
+Title: ( Name Of RPG Maker Game )
+Genre: ( JRPG Type )
+Description: ( General synopsis of the game, or if game dev can provide a pitch or blurb )
+Screenshots: ( If you can get the screenshots, I need at least three. )
+
+Any extra information relevant.
+
+## Disclaimer
+Note that I have the right to refuse if it doesn't fit my politics or idealogy. So I probably wont write a poem for a game about non-binary people. Sorry not sorry. Trans women aren't your pokemon tokens.
+
+## Contact Info
 Coming soon
