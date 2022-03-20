@@ -3,6 +3,10 @@ title: "They Left Behind Rice And Water: Un Fraponic Hymn"
 author: SRWeaver
 tags: poetry hymn anthem nationhood proimmigrants
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hdk_hSOsGNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Download PDF](https://lwflouisa.github.io/music/PDF/TheyComeForRiceAndWater_complete.pdf)
+
 In land of rice / and fields, by night<br />
 The red rising sun wanes / the cherry blossoms falling<br />
 cover all the salt / under moonlit<br />
